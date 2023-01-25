@@ -124,3 +124,5 @@
 @@|onedrive.com^$important
 @@|ls.apple.com^$important
 @@|youtube.com^$important
+@@|setup.icloud.com^$important
+@@|icloud.com^$important

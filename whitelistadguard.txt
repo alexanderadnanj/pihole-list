@@ -121,3 +121,6 @@
 @@|time-ios.apple.com^$important
 @@|time.apple.com^$important
 @@|time-macos.apple.com^$important
+@@|onedrive.com^$important
+@@|ls.apple.com^$important
+@@|youtube.com^$important

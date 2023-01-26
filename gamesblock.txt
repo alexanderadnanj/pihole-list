@@ -1,4 +1,6 @@
 games.crazygames.com
+gameflare.com
+vigoo.com
 gameframe.crazygames.com
 www.gamepix.com
 api.web.gamepix.com

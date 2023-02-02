@@ -1,5 +1,6 @@
 jango.com
 ||google.com*^
+||jango.com*^
 duckduckgo.com
 najox.com
 vigoo.fun

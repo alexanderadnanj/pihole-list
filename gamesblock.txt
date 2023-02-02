@@ -1,5 +1,6 @@
 jango.com
 ||google.com*^
+||geometrydash.io^
 ||jango.com*^
 duckduckgo.com
 najox.com

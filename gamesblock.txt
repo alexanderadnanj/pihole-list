@@ -1,5 +1,7 @@
 jango.com
 ||google.com*^
+||fcbarcelona.com*^
+||onefootball.com*^
 ||geometrydash.io^
 ||jango.com*^
 duckduckgo.com

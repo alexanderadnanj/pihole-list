@@ -1,4 +1,9 @@
 @@|nwea.force.com/nweaconnection^$important
+@@|iadsdk.apple.com^$important
+@@|securemetrics.apple.com^$important
+@@|ca.iadsdk.apple.com^$important
+@@|api-adservices.apple.com^$important
+@@|internalcheck.apple.com^$important
 @@|dpdol.nwea.org^$important
 @@|legal.nwea.org^$important
 @@|prolearning.nwea.org^$important

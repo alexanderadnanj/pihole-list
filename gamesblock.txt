@@ -1,5 +1,6 @@
 jango.com
 ||fcbarcelona.com^
+||fc2.com^
 ||realmadrid.com^
 ||onefootball.com^
 ||google.com*^

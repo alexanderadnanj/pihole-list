@@ -1,5 +1,6 @@
 jango.com
 ||geometrydashfree.com^
+||pokemon.com^
 ||fendiplay.com^
 ||fcbarcelona.com^
 ||fifa.com^

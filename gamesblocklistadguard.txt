@@ -4,6 +4,8 @@
 
 ::1 localhost #[IPv6]
 
+||poki.com^
+||suikagame.com^
 ||emulatoronline.com^
 ||puffgames.com^
 ||nick.com^.au^

@@ -4,6 +4,7 @@
 
 ::1 localhost #[IPv6]
 
+||geometrydash.io^
 ||poki.com^
 ||suikagame.com^
 ||emulatoronline.com^

@@ -36,7 +36,6 @@
 ||fishinggamespod.com^
 ||mariogames.io^
 ||hole-io.com^
-||youtube.com^
 ||epicgames.com^
 ||poki.com^
 ||arcadespot.com^

@@ -83,7 +83,6 @@
 ||backloggery.com^
 ||barter.vg
 ||battle.net^
-||best.discord.media
 ||beta.steamcommunity.com^
 ||bigbeans.solutions
 ||bladeandsoul.com^
@@ -152,7 +151,6 @@
 ||cdn-01.steampowered.com^
 ||cdn.akamai.steamstatic.com^
 ||cdn.beta.steampowered.com^
-||cdn.discordapp.com^
 ||cdn.steamcommunity.com^
 ||cdn.steampowered.com^
 ||cdn.store.steampowered.com^
@@ -247,12 +245,6 @@
 ||deal.kinguin.net^
 ||deathmatchclassic.com^
 ||developer.valvesoftware.com^
-||dis.gd
-||discord.co
-||discord.com^
-||discord.gg
-||discord.media
-||discordapp.com^
 ||dispenser.tf
 ||dl.tnt.gameforge.com^
 ||dlassets-ssl.xboxlive.com^
@@ -326,7 +318,6 @@
 ||gamesradar.com^
 ||gamingdragons.com^
 ||gamivo.com^
-||gateway.discord.gg
 ||gds1.steampowered.com^
 ||gds2.steampowered.com^
 ||gds3.steampowered.com^
@@ -385,8 +376,6 @@
 ||ign.com^
 ||iir.blizzard.com^
 ||images-eds.xboxlive.com^
-||images-ext-1.discordapp.net^
-||images-ext-2.discordapp.net^
 ||indiegala.com^
 ||install.gameforge.com^
 ||instant-gaming.com^
@@ -430,7 +419,6 @@
 ||marketplace.tf
 ||media-rockstargames-com.akamaized.net^
 ||media.contentapi.ea.com^
-||media.discordapp.net^
 ||media.steamcommunity.com^
 ||media.steampowered.com^
 ||media1.steampowered.com^
@@ -561,7 +549,6 @@
 ||starcraft.com^
 ||starcraft2.com^
 ||static.playstation.com^
-||status.discordapp.com^
 ||status.leagueoflegends.com^
 ||status.playstation.com^
 ||steam-backlog.com^
@@ -1023,7 +1010,6 @@
 ||www.cjs-cdkeys.com^
 ||www.com^pletionator.com^
 ||www.dailyindiegame.com^
-||www.discordapp.com^
 ||www.dlcompare.fr^
 ||www.dlgamer.com^
 ||www.dotabuff.com^

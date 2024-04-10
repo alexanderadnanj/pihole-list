@@ -4,6 +4,7 @@
 
 ::1 localhost #[IPv6]
 
+||futbol^
 ||futbol-11.com^
 ||futbol11.netlify.app^
 ||geometrydash.io^

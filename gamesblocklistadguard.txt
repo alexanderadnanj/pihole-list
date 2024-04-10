@@ -4,6 +4,8 @@
 
 ::1 localhost #[IPv6]
 
+
+||futbol11.netlify.app^
 ||geometrydash.io^
 ||poki.com^
 ||suikagame.com^

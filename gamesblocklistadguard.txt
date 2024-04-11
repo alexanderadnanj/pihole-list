@@ -4,9 +4,11 @@
 
 ::1 localhost #[IPv6]
 
+||www.fifarosters.com^
 ||fifarosters.com^
 ||futbol^
 ||futbol-11.com^
+||www.futbol-11.com^
 ||futbol11.netlify.app^
 ||geometrydash.io^
 ||poki.com^

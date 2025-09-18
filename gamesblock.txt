@@ -1,6 +1,7 @@
 0.0.0.0	jango.com
 0.0.0.0	porno.com
 0.0.0.0 google.com/logos/2020/kitsune/rc6/kitsune20.html
+0.0.0.0 doodles.google
 0.0.0.0 google.com/logos/
 0.0.0.0	geometrydashfree.com
 0.0.0.0	pokemon.com

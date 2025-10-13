@@ -1,3 +1,9 @@
+0.0.0.0	roblox.com
+0.0.0.0	www.roblox.com
+0.0.0.0	api.roblox.com
+0.0.0.0	cdn.roblox.com
+0.0.0.0	rbxcdn.com
+0.0.0.0	roblox.gg
 0.0.0.0	jango.com
 0.0.0.0	porno.com
 0.0.0.0 google.com/logos/2020/kitsune/rc6/kitsune20.html
